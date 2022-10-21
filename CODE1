@@ -1,6 +1,6 @@
 Q1 You have to given an array and two integers n and m where n is the size of array 
-and n-m is the key you have to do a difference of sum of smallest (n-m)th number 
-and largest (n-m)th number and print it in a single line?
+and n-m is the key you have to do a difference of sum of largest (n-m)th number 
+and smallest (n-m)th number and print it in a single line?
 
 #include<iostream>
 using namespace std;
